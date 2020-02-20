@@ -10,4 +10,4 @@ bash <(curl -s https://raw.githubusercontent.com/domtripodi/elm-new-script/maste
 ```
 
 ## Alternatively
-You can either just pull this repo, remove and install whatever you like! 
+You can just pull this repo, remove and install whatever you like! 
